@@ -1,0 +1,2 @@
+# typeScriptFirstLearn
+ts base learn
